@@ -1,6 +1,7 @@
 # 🎬 Movie Recommendation System
 
-![Banner](screenshots/banner1.png)
+![Banner](screenshots/banner1.png)<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/f80ae5f2-0e43-4fd9-b854-5630cb9e7b6e" />
+
 
 > A full-stack **Movie Recommendation System** that intelligently suggests movies to users based on their preferences and ratings.
 > This project integrates **database management, backend development, and machine learning** to create a complete recommendation pipeline.
@@ -167,7 +168,7 @@ http://localhost/movie_recommendation/frontend/login.php
 
 ## 👨‍💻 Author
 
-**Akarsh Kumar**
+**binkatesh Kumar**
 B.Tech (AI & ML)
 
 ---
