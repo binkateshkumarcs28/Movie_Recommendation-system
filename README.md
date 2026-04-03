@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/3e46faa6-6272-4fe5-8787-780bc2c115aa" />
 # 🎬 Movie Recommendation System
 
 ![Banner](screenshots/banner1.png)<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/f80ae5f2-0e43-4fd9-b854-5630cb9e7b6e" />
